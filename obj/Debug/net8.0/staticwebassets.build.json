@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JXG1lCkK0o81CWy+spZfMVMKybY/rCsgfr9P4fGaExI=",
+  "Hash": "se/6rZFugZKOM8c5DBj9FIRwrIBTKcOvsKCccz1jb8g=",
   "Source": "TodoList",
   "BasePath": "_content/TodoList",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TodoList\\wwwroot",
       "Source": "TodoList",
-      "ContentRoot": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\",
       "BasePath": "_content/TodoList",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\joshm\\JoshDev\\TodoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TodoList.styles.css",
+      "Identity": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TodoList.styles.css",
       "SourceId": "TodoList",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joshm\\JoshDev\\TodoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TodoList",
       "RelativePath": "TodoList.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joshm\\JoshDev\\TodoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TodoList.styles.css"
+      "OriginalItemSpec": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TodoList.styles.css"
     },
     {
-      "Identity": "C:\\Users\\joshm\\JoshDev\\TodoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.bundle.scp.css",
+      "Identity": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.bundle.scp.css",
       "SourceId": "TodoList",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joshm\\JoshDev\\TodoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TodoList",
       "RelativePath": "TodoList.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joshm\\JoshDev\\TodoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\app.css",
+      "Identity": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\app.css",
       "SourceId": "TodoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\",
       "BasePath": "_content/TodoList",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "TodoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\",
       "BasePath": "_content/TodoList",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TodoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\",
       "BasePath": "_content/TodoList",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\favicon.png",
+      "Identity": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\favicon.png",
       "SourceId": "TodoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joshm\\JoshDev\\TodoList\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\",
       "BasePath": "_content/TodoList",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

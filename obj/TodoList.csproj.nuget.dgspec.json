@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshm\\JoshDev\\TodoList\\TodoList.csproj": {}
+    "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshm\\JoshDev\\TodoList\\TodoList.csproj": {
+    "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshm\\JoshDev\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "C:\\Users\\joshm\\JoshDev\\TodoList\\TodoList.csproj",
+        "projectPath": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\TodoList.csproj",
         "packagesPath": "C:\\Users\\joshm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshm\\JoshDev\\TodoList\\obj\\",
+        "outputPath": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joshm\\AppData\\Roaming\\NuGet\\NuGet.Config"
